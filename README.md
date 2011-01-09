@@ -1,6 +1,8 @@
 Grack - Ruby/Rack Git Smart-HTTP Server Handler
 ===============================================
 
+#What what
+
 This project aims to replace the builtin git-http-backend CGI handler
 distributed with C Git with a Rack application.  This reason for doing this
 is to allow far more webservers to be able to handle Git smart http requests.
