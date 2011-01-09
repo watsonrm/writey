@@ -12,6 +12,8 @@ other CGI capable webservers (Lighttpd, etc), we can get it running on nearly
 every major and minor webserver out there by making it Rack capable.  Rack 
 applications can run with the following handlers:
 
+#README
+
 * CGI
 * FCGI
 * Mongrel (and EventedMongrel and SwiftipliedMongrel)
